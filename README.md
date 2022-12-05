@@ -16,3 +16,7 @@
         <a href="https://www.linkedin.com/in/viniciusdemoraismendes" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" alt="icon linkedin" width="40px"></a>
         <a href="https://www.instagram.com/_vinymorais_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="icon instagram" width="40px"></a>
 </div>
+        <div align="center">
+                <img                            src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" alt="Image GitHub" width="40px">                
+                <img src="https://komarev.com/ghpvc/?username=viniciusdmoais&label=PROFILE+VIEWS">
+        </div>
