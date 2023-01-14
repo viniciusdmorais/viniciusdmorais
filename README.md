@@ -17,7 +17,7 @@
 </div>
  
  <img src="https://ci4.googleusercontent.com/proxy/J7UPgH3sRbzrarJs7SMbuE6sWkgCT5SuUHTOO0XQtG0OZKqSzY7-M6r0vDBPnEtS3pK_AzBrTBE4mnHUi1RRDQ7PWawrdNOfRUFYC2r4-rSb1svAGTUnF2jELEGLm1YHO393JfVVVJl88iusrqBVd1sIzJjHPuAUqcyyxOpy=s0-d-e1-ft#https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2019/CXL-1347/alexa-bar_223px-width_v2.gif" alt="bar-central" width="100%" height ="5px">
- 
+  
 <div align="center">         
         <a href="https://www.linkedin.com/in/viniciusdemoraismendes" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" alt="icon linkedin" width="40px"></a>
         <a href="https://www.instagram.com/_vinymorais_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="icon instagram" width="40px"></a>
