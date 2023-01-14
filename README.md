@@ -13,7 +13,7 @@
 <img src="https://ci4.googleusercontent.com/proxy/J7UPgH3sRbzrarJs7SMbuE6sWkgCT5SuUHTOO0XQtG0OZKqSzY7-M6r0vDBPnEtS3pK_AzBrTBE4mnHUi1RRDQ7PWawrdNOfRUFYC2r4-rSb1svAGTUnF2jELEGLm1YHO393JfVVVJl88iusrqBVd1sIzJjHPuAUqcyyxOpy=s0-d-e1-ft#https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2019/CXL-1347/alexa-bar_223px-width_v2.gif" alt="bar-central" width="100%" height ="5px">
 
 <div align="center">
-        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdmorais&layout=compact&langs_count=7&theme=github_dark">
+        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdmorais&layout=compact&width=800">
 </div>
  
  <img src="https://ci4.googleusercontent.com/proxy/J7UPgH3sRbzrarJs7SMbuE6sWkgCT5SuUHTOO0XQtG0OZKqSzY7-M6r0vDBPnEtS3pK_AzBrTBE4mnHUi1RRDQ7PWawrdNOfRUFYC2r4-rSb1svAGTUnF2jELEGLm1YHO393JfVVVJl88iusrqBVd1sIzJjHPuAUqcyyxOpy=s0-d-e1-ft#https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2019/CXL-1347/alexa-bar_223px-width_v2.gif" alt="bar-central" width="100%" height ="5px">
