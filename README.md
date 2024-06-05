@@ -20,7 +20,7 @@
   
 <div align="center">         
         <a href="https://www.linkedin.com/in/viniciusdemoraismendes" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" alt="icon linkedin" width="40px"></a>
-        <a href="https://www.instagram.com/_vinymorais_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="icon instagram" width="40px"></a>
+        <a href="https://www.instagram.com/vinymorais_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="icon instagram" width="40px"></a>
 </div>
         <div align="center">
                 <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Image GitHub" width="40px">                
