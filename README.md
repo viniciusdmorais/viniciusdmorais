@@ -4,7 +4,7 @@
         <img src="https://avatars.githubusercontent.com/u/20243897?s=200&v=4" alt="Image ADVPL TOTVS" width="40px">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" alt="HTML5" width="40px">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="Image Css3" width="40px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/397px-Javascript-shield.svg.png?20180912181046" alt="Image Javascript" width="40px">
+        <img src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" alt="Image Javascript" width="40px">
 </div> 
 <div align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" alt="Image Figma" width="40px">
