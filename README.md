@@ -1,22 +1,31 @@
 <h1 align="center">👨‍💻 Vinícius de Morais</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=500&lines=Software+Developer;System+Analyst;Backend+%7C+APIs+%7C+BI;Sempre+evoluindo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Backend+Developer;Protheus+%7C+ADVPL+Specialist;APIs+%7C+BI+%7C+Integrações;Transformando+problemas+em+soluções+🚀" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 💼 Sobre mim
 
-Desenvolvedor com mais de 10 anos de experiência atuando com sistemas corporativos, BI e automações.
+Sou desenvolvedor com mais de **10 anos de experiência** em sistemas corporativos, atuando principalmente com:
 
-💡 Hoje meu foco está em:
-- Desenvolvimento de APIs e integrações
-- Manipulação e análise de dados
-- Interfaces modernas com boa usabilidade
-- Automação de processos
+✔ Protheus / ADVPL  
+✔ Integração de dados e APIs  
+✔ BI e automação de processos  
+✔ Desenvolvimento backend  
 
-🎯 Buscando oportunidades para atuar com desenvolvimento backend / fullstack e evoluir constantemente como desenvolvedor.
+Tenho forte capacidade de **entender o negócio + transformar em solução técnica**, criando sistemas eficientes, escaláveis e organizados.
+
+---
+
+## 🎯 O que eu entrego
+
+- 🔹 APIs bem estruturadas e prontas para produção  
+- 🔹 Integrações entre sistemas (ERP, BI, serviços externos)  
+- 🔹 Automação de processos manuais  
+- 🔹 Organização de dados para análise e tomada de decisão  
+- 🔹 Soluções práticas para problemas reais do dia a dia  
 
 ---
 
@@ -32,36 +41,55 @@ Desenvolvedor com mais de 10 anos de experiência atuando com sistemas corporati
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
 
+<!-- ADVPL / Protheus -->
+<img src="https://seeklogo.com/images/T/totvs-logo-33E7A0E7B6-seeklogo.com.png" width="40px"/>
+
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos que demonstram meu trabalho
 
-### 🔹 API de Clientes (Node.js + SQLite)
-- API REST completa com CRUD
-- Estrutura organizada (routes, controllers, database)
-- Testada via Swagger
+### 🔹 API REST de Clientes
+- Node.js + Express + SQLite  
+- CRUD completo  
+- Arquitetura em camadas  
+- Documentação com Swagger  
 
-👉 Em breve documentação completa
-
----
-
-### 🔹 Sistema Desktop - Marmoraria
-- Aplicação em Python (Tkinter)
-- Controle de clientes e orçamentos
-- Interface simples e funcional
+💡 Simula um cenário real de backend corporativo
 
 ---
 
-### 🔹 Dashboard BI (Protheus + Cloud)
-- Integração de dados via query automatizada
-- Geração de CSV + envio para nuvem
-- Criação de dashboards analíticos
+### 🔹 Sistema Desktop (Python)
+- Interface com Tkinter  
+- Controle de clientes e orçamentos  
+- Aplicação prática para negócio real  
 
 ---
 
-## 🌐 Contato
+### 🔹 Pipeline de BI (Protheus → Nuvem)
+- Queries automatizadas no ERP  
+- Geração de dados estruturados (CSV / Data Model)  
+- Integração com plataforma de BI  
+
+💡 Transformação de dados brutos em informação estratégica
+
+---
+
+## 🧠 Diferencial
+
+Enquanto muitos devs focam só em código…
+
+👉 Eu foco em **resolver o problema completo**:
+
+- Entendo o sistema legado (Protheus)
+- Estruturo os dados
+- Integro com APIs
+- Entrego algo utilizável no dia a dia
+
+---
+
+## 📩 Vamos conversar?
 
 <div align="center">
 
@@ -91,4 +119,4 @@ Desenvolvedor com mais de 10 anos de experiência atuando com sistemas corporati
 
 ---
 
-⭐ Se algum projeto te ajudou ou chamou atenção, deixa uma estrela!
+⭐ Se você procura alguém que entrega solução de verdade, vamos trocar uma ideia.
