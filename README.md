@@ -33,17 +33,6 @@ Desenvolvedor com mais de 10 anos de experiência em tecnologia, atuando princip
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdmorais&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdmorais&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
