@@ -1,28 +1,77 @@
-<h1 align="center">Software Developer</h1>
+<h1 align="center">👨‍💻 Vinícius de Morais</h1>
+<h3 align="center">Software Developer | System Analyst</h3>
+
+---
+
+## 🚀 Sobre mim
+Desenvolvedor com mais de 10 anos de experiência em tecnologia, atuando principalmente com sistemas corporativos, BI e automações.
+
+💡 Foco em:
+- Desenvolvimento de sistemas
+- Integração de dados e APIs
+- BI e análise de dados
+- Interfaces modernas e intuitivas
+
+🎯 Sempre buscando evoluir e criar soluções eficientes que realmente resolvem problemas.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/20243897?s=200&v=4" alt="Image ADVPL TOTVS" width="40px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" alt="HTML5" width="40px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="Image Css3" width="40px">
-        <img src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" alt="Image Javascript" width="40px">
-</div> 
-<div align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" alt="Image Figma" width="40px">
-</div> 
 
-<img src="https://ci4.googleusercontent.com/proxy/J7UPgH3sRbzrarJs7SMbuE6sWkgCT5SuUHTOO0XQtG0OZKqSzY7-M6r0vDBPnEtS3pK_AzBrTBE4mnHUi1RRDQ7PWawrdNOfRUFYC2r4-rSb1svAGTUnF2jELEGLm1YHO393JfVVVJl88iusrqBVd1sIzJjHPuAUqcyyxOpy=s0-d-e1-ft#https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2019/CXL-1347/alexa-bar_223px-width_v2.gif" alt="bar-central" width="100%" height ="5px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
 
-<div align="center">
-        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdmorais&layout=compact&width=800">
 </div>
- 
- <img src="https://ci4.googleusercontent.com/proxy/J7UPgH3sRbzrarJs7SMbuE6sWkgCT5SuUHTOO0XQtG0OZKqSzY7-M6r0vDBPnEtS3pK_AzBrTBE4mnHUi1RRDQ7PWawrdNOfRUFYC2r4-rSb1svAGTUnF2jELEGLm1YHO393JfVVVJl88iusrqBVd1sIzJjHPuAUqcyyxOpy=s0-d-e1-ft#https://images-na.ssl-images-amazon.com/images/G/01/kindle/merch/2019/CXL-1347/alexa-bar_223px-width_v2.gif" alt="bar-central" width="100%" height ="5px">
-  
-<div align="center">         
-        <a href="https://www.linkedin.com/in/viniciusdemoraismendes" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" alt="icon linkedin" width="40px"></a>
-        <a href="https://www.instagram.com/vinymorais_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="icon instagram" width="40px"></a>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusdmorais&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdmorais&layout=compact&theme=tokyonight"/>
+
 </div>
-        <div align="center">
-                <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Image GitHub" width="40px">                
-                <img src="https://komarev.com/ghpvc/?username=viniciusdmoais&label=PROFILE+VIEWS">
-        </div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/viniciusdemoraismendes" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+</a>
+
+<a href="https://www.instagram.com/vinymorais_" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40px"/>
+</a>
+
+<a href="https://github.com/viniciusdmorais" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
+</a>
+
+</div>
+
+---
+
+## 👀 Visitas no perfil
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=viniciusdmorais&color=blue&style=flat-square"/>
+
+</div>
+
+---
+
+⭐ *Se curtir algum projeto, não esquece de deixar uma estrela!*
